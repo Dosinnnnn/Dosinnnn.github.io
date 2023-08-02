@@ -10,3 +10,23 @@
 section {
   padding-top: 5rem;
 }
+
+.galery-img{
+  width: 100%;
+}
+
+#galery .row > *{
+  padding: 0;
+}
+
+.display-5{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+.lead{
+  font-family: 'Helvetica', sans-serif;
+  
+}
+
+
